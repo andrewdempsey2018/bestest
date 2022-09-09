@@ -18,6 +18,10 @@ Hello
 (Note: Ctrl + click to open in a new tab)    
 
 
+DISABLE_COLLECTSTATIC=1
+
+
+
 ## Table of Content
 1. [Project Goals](#project-goals)
    1. [User Goals](#user-goals)
