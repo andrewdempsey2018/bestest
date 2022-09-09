@@ -1,1 +1,1 @@
-web: gunicorn testtest123453.wsgi
+web: gunicorn blog.wsgi
